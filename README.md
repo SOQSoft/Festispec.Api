@@ -6,7 +6,6 @@
  **1.**  Clone the repository using the command: 
 ```
 git clone --recurse-submodules -j8 git://github.com/SOQSoft/Festispec.Api.git
-cd bar
 ```
  
  **2.**  Open Command promp 
